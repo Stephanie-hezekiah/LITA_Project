@@ -1,2 +1,6 @@
-# LITA_Project
-This is where i want to document my first Data Analysis project- The Incubator
+# LITA_Class_Documentation
+
+### PROJECT TITLE: Data Cleaning, Analysis, Querying and Visualization using Microsoft Excel,SQL and PowerBI
+
+[Project Overview](#project-overview)
+
