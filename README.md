@@ -24,7 +24,7 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 ---
 - Microsoft Excel
 1. For data cleaning
-  i. Simple Arithmetic calculations [view](https://https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?gid=849939821#gid=849939821)
+  i. Simple Arithmetic calculations [view](https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?gid=849939821#gid=849939821)
 
 3. For analysis
 4. For visualization
