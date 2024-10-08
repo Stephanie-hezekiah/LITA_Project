@@ -81,4 +81,13 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
 ```
 
--PowerBI
+-PowerBI: Power BI is a powerful data visualization and business intelligence tool that is primarily used in data analysis for the following purposes:
+
+i. Data Visualization
+
+ii. Data Connectivity and Integration
+
+iii. Collaboration and Sharing
+
+iv. Predictive Analytics
+
