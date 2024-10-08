@@ -25,7 +25,9 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 - Microsoft Excel
 1. For data cleaning
   i. Simple Arithmetic calculations [view](https://docs.google.com/spreadsheets/d/1dfztYuF8bpYCgHDVIgtoTa1yXnY-c14D/edit?gid=849939821#gid=849939821)
+
  ii. Data Validation(Removing Excess Spaces and Formatting of Text) [check](https://docs.google.com/spreadsheets/d/1vDIJYzXy4EPV8nN9usfVoX8brf01SOYZ/edit?gid=268669386#gid=268669386)
+ 
 iii. Vlookup [view](https://docs.google.com/spreadsheets/d/13k_nWP8FeQZcpaEZffDgc16rO0sSgf1J/edit?gid=2120189425#gid=2120189425)
 3. For analysis
 4. For visualization
